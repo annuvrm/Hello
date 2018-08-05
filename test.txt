@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E7A-0666
+
+ Directory of C:\Users\Annu\Desktop\Java
+
+05-08-2018  12:51    <DIR>          .
+05-08-2018  12:51    <DIR>          ..
+05-08-2018  02:35               414 Hello.class
+05-08-2018  00:55               155 Hello.java
+05-08-2018  12:51                 0 test.txt
+               3 File(s)            569 bytes
+               2 Dir(s)  194,290,335,744 bytes free
